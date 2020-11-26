@@ -54,7 +54,7 @@ My steps to deploying my project were as follows:
 
 - Then I would pushed my code from Atom to the repository.
 
-- After all of this was done the project was deployed and hosted on Heroku.
+- Finally the project was deployed and hosted on Heroku.
 
 CREDITS
 
